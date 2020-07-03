@@ -88,15 +88,14 @@ def assistant(command):
         1. Open reddit subreddit : Opens the subreddit in default browser.\n
         2. Open xyz.com : replace xyz with any website name\n
         3. Send email/email : Follow up questions such as recipient name, content will be asked in order.\n
-        4. Tell a joke/another joke : Says a random dad joke.\n
         5. Current weather in {cityname} : Tells you the current condition and temperture\n
         7. Greetings\n
-        8. play me a video : Plays song in your VLC media player\n
-        9. change wallpaper : Change desktop wallpaper\n
-        10. news for today : reads top news of today\n
-        11. time : Current system time\n
-        12. top stories from google news (RSS feeds)\n
-        13. tell me about xyz : tells you about xyz\n
+        8. news for today : reads top news of today\n
+        9. time : Current system time\n
+        10. top stories from google news (RSS feeds)\n
+        11. tell me about xyz : tells you about xyz\n
+        
+        12. It can hold a regular small talk experience too .
         """)
 
 
