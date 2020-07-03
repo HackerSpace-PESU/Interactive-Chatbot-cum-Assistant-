@@ -4,7 +4,7 @@
 
 You can input 'help me' in order to know what all it can do for you . 
 
-###Dependancies
+##Dependancies
 
 flask
 SpeechRecognition
