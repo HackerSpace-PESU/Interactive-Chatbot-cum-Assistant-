@@ -3,3 +3,15 @@
  We also included a retrieval based chatbot with the help of a dataset consisted of custom follow-up conversations to create a huma-like experience .
 
 You can input 'help me' in order to know what all it can do for you . 
+
+###Dependancies
+
+flask
+SpeechRecognition
+gtts
+sklearn
+wikipedia
+youtube_dl
+pyaudio
+playsounf
+smtplib
